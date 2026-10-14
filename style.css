@@ -192,7 +192,7 @@ nav{
 .img{
     width: 100%;
     height: 100%;
-    background-image:url(/Front_End/Css_BasicToAdvance/girl.jpeg);
+    background-image:url(girl.jpeg);
     background-position: center;
     background-size:100%;
     border-radius: 10px;
@@ -288,16 +288,16 @@ nav{
 }
 
 #img1{
-    background-image: url(/Front_End/Css_BasicToAdvance/girl.jpeg);
+    background-image: url(girl.jpeg);
 }
 #img2{
-    background-image: url(/Front_End/Css_BasicToAdvance/kambal.jpeg);
+    background-image: url(kambal.jpeg);
 }
 #img3{
-    background-image: url(/Front_End/Css_BasicToAdvance/WhatsApp\ Image\ 2026-10-11\ at\ 8.44.29\ AM.jpeg);
+    background-image: url(WhatsApp\ Image\ 2026-10-11\ at\ 8.44.29\ AM.jpeg);
 }
 #img4{
-    background-image: url(/Front_End/Css_BasicToAdvance/full.jpeg);
+    background-image: url(full.jpeg);
 }
 .section3 .imgS:hover{
     transform: scale(1.1);
